@@ -14,6 +14,7 @@ Heading adjustment:
 ±10°
 Autopilot mode selection:
 Compass
+nav
 GPS
 Wind
 True Wind
