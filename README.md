@@ -60,6 +60,8 @@ excellent readability;
 low power consumption;
 very low latency between the user and the autopilot.
 
+The top button turns the pilot on or off, pressing it for more than 3 seconds lets you enter the connection settings. The bottom button puts it to sleep, and pressing it for more than 3 seconds turns the watch off.
+
 The entire interface is developed using LVGL8, and the firmware is written in C++ using the Arduino environment for ESP32.
 The audio implementation remains to be done, but I cannot find sufficient documentation to initialize the register settings within the Arduino environment.
 Developed for sailors, by a sailor, using pypilot, and designed to provide a lightweight, standalone remote control that is always within easy reach.
