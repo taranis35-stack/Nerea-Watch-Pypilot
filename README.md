@@ -19,7 +19,7 @@ Features
 🌙 Automatic screen sleep
 ⌚ Instant wake-up
 💾 Persistent configuration storage
-🎨 Adjustable screen brightness (coming soon)
+🎨 Adjustable screen brightness
 Hardware
 
 Designed for:
