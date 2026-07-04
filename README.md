@@ -1,3 +1,6 @@
+edit: July 4, 2026
+creation of the backlight function accessible in the settings menu
+
 Nerea Watch
 
 Nerea Watch is a standalone remote control in watch form for pypilot versions 0.56 and 0.70, specifically designed for use at sea.
